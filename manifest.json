@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"name": "Your Tasks for Today",
+	"description": "Any.do tab with a whole bunch of other features",
+	"version": "1.0",
+	"permissions": [
+		"storage"
+	],
+	"chrome_url_overrides": {
+    "newtab": "popup.html"
+  },
+	"content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+	"web_accessible_resources": [
+		"img/icon128.png"
+	]
+}
