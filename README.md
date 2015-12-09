@@ -1,12 +1,12 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+  <content>
+## Any.do New Tab for Google Chrome
 
 TODO: Write a project description
 
 ## Installation
 
-TODO: Describe the installation process
+# Method A: 
 
 ## Usage
 
