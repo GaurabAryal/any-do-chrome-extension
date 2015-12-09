@@ -1,12 +1,12 @@
 <snippet>
   <content>
-## Any.do New Tab for Google Chrome
+# Any.do New Tab for Google Chrome
 
 TODO: Write a project description
 
 ## Installation
 
-# Method A: 
+### Method A: 
 
 ## Usage
 
